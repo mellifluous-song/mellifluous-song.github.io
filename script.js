@@ -27,6 +27,13 @@ const allSongs = [
     duration: "3:59",
     src: "nanti.mp3",
   },
+  {
+    id: 3,
+    title: "Penjaga Hati",
+    artist: "Nadhif Basalamah",
+    duration: "4.57",
+    src: "penjaga.mp3",
+    },
 ];
 
 const audio = new Audio();
