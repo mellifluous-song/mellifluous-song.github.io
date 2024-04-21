@@ -40,7 +40,11 @@ h2 {
 ul {
   margin: 0;
 }
-
+footer{
+        font-family: 'Libre Franklin', sans-serif;
+        background-color: grey;
+        color: white;
+}
 .container {
   margin-top: 10px;
   display: flex;
